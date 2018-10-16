@@ -1,0 +1,16 @@
+body {
+	background-color: #47B0F4;
+}
+
+
+.container h1 {
+	text-align: center;
+	color: white;
+	font-weight: bold;
+}
+
+h3 {
+	font-family: monospace;
+	color: #375082;
+	margin-top: 10px;
+}
